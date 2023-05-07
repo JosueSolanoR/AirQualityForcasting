@@ -1,1 +1,1 @@
-# AirQualityForcasting
+# AirQualityForecasting
